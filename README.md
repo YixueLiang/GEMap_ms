@@ -6,12 +6,12 @@ GEMap consolidates CRISPR screening data from Broad Achilles 23Q2, Sanger, Avana
 Processing was applied to files larger than 25 MB (CRISPR_DATA.Rdata, Mut_Data.rds, drug_data_list_20.RData, Avana_DATA.Rdata, Sanger_DATA.Rdata). These data only show a portion of the information to ensure the transparency and reproducibility.
 
 # Essentiality Analysis
-
+Explore multimodal gene data (Dependency/Expression/CNV/Mutation) across cell lines and tissues.
 
 # Essentiality2Target
-
+Prioritizes context-specific therapeutic targets by quantifying differential genetic dependencies in molecularly stratified cancers, such KRAS mutation-cancers.
 
 # Essentiality2Drug
-
+Discover tailored treatments and drugs candidate targeting particular genes using large-scale drug perturbation data and drug physical targets.
 
 # DIY Tools
